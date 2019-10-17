@@ -1,0 +1,38 @@
+body {
+	background-color: #f0dd92;
+    color: #3c3d47;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    line-height: -0.5px;
+    font-weight: 700
+
+}
+
+.img-circle {
+	border-radius: 10px;
+}
+
+#banner h1,{
+	font-size: 40px;
+	font-family: 'Be Vietnam', sans-serif;
+
+
+}
+
+
+#header1 h2, {
+	font-size: 25px;
+	font-family: 'Be Vietnam', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #eb7070;	
+}
+
+a:hover {
+	color: #160f30;
+	font-weight: bold;
+}
+
+
